@@ -9,3 +9,8 @@ elif n<0:
     print(f"{n} is negative")
 else:
     print(f"{n} is equal to zero")
+
+s = set()
+s.add(1)
+lstNames = ["Mohammad","wasef","Ramadan"]
+print(f"The set have {len(s)} elements, and the string have {len(name)} character, and the list have {len(lstNames)} elements")
