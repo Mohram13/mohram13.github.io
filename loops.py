@@ -1,6 +1,6 @@
 name = "Mohammad Wasef Ramadan"
-for i in name:
-    print(i)
+for character in name:
+    print(character)
 
 s = set()
 s.add(1)
